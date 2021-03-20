@@ -1,3 +1,4 @@
 # portfolio
 Nabiha Tahsin's portfolio
-[cv_with_photo_02.docx](https://github.com/NabihaTahsin/portfolio/files/6174962/cv_with_photo_02.docx)
+![Screenshot_2021_0320_114007](https://user-images.githubusercontent.com/77097327/111860366-4234d300-8971-11eb-82e5-7ae7d7c1eefc.jpg)
+
